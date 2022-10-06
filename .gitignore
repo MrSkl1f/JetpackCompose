@@ -83,3 +83,13 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# Android Studio/IDEA
+*.iml
+.idea
+*.iws
+*.ipr
+*.swp
+/out
+/production
+../.idea
